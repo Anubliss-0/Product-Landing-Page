@@ -1,0 +1,5 @@
+Things to still fix
+
+1. signup section needs to be more responsive.
+2. Footer needs to be built.
+3. Nav bar needs to be responsive.
